@@ -1,4 +1,4 @@
-# ANKURBISEN[![MasterHead](https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif?fit=1200%2C400)
+![MasterHead](https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif?fit=1200%2C400)
 <h1 align="center">Hi 👋, I'm AnkurBisen</h1>
   
 <h3 align="center">A passionate backend developer from India</h3>
