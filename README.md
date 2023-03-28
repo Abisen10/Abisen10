@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abisen10&show_icons=true&locale=en&layout=compact" alt="abisen10
   
-  https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&border_radius=5.2&mode=weekly)](https://git.io/streak-stats)
